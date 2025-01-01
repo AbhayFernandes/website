@@ -1,29 +1,26 @@
 # Site settings
-title: Klise Theme # site title
+title: Abhay's Website # site title
 description: >- # site description
-  He's writing in Bahasa about web technology and experience as a journal 
-  for documentation things that he learned, meet him <a href="https://github.com/piharpi" target="_blank" rel="noopener">@github</a>.
+  Chilly nights in Detroit make for a great time to write code
+  so might as well talk about it here.
+  want to see what I've done? check out <a href="https://github.com/abhayfernandes" target="_blank" rel="noopener">@github</a>.
 lang: en-US # default lang
-timezone: Asia/Jakarta # set your timezone
-image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
-repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
+timezone: America/Detroit # set your timezone
+repo: https://github.com/abhayf/website # site repo [optional]
 mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Jekyll Klisé # author name
+  name: Abhay Fernandes # author name
   bio: >- # tell to the world
-    The minimalist Jekyll theme, light and dark mode support, for running a personal site and blog, 
-    meet Klisé theme at <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">@github</a>.
-  username: username # general username
-  github: github_username # github username
-  twitter: twitter_username # twitter username
-  facebook: facebook_username # facebook username
-  email: your-email@email.com # email adress
+    Writing code, learning math, and creating plenty of bugs for everyone.
+  username: abhayf # general username
+  github: AbhayFernandes # github username
+  email: abhay.fernandes@protonmail.com # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "https://klise.now.sh" #
+url: "https://abhayf.com" #
 baseurl:
 permalink: /:title/
 google_analytics: # leave it blank if not wish

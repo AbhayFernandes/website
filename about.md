@@ -1,18 +1,18 @@
 ---
-title: Colophon
+title: About Me 
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
+excerpt: Hey everyone, I'm a student in Computer Science at MSU. Currently I work at Amazon on Developer Automation.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Hey everyone, I'm a student in Computer Science at MSU. Currently I work at Amazon on Developer Automation.
+I've got a couple of projects, a couple of posts and a couple of ideas on this website. Hopefully you end up 
+finding it all interesting.
 
-If you have a question about him or else, just send a letter to him.
+If you have any questions about myself or my blogs, just send me an email.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
-
-**may u needs ✨**
+**links to me**
 
 - {{ site.author.email }}
 - github.com/{{ site.author.github }}
